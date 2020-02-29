@@ -2,8 +2,8 @@
 
 ## Dependencies
 
-* Download 'git clone -b zeus git://git.yoctoproject.org/poky'
-* Download 'git clone -b zeus git://git.openembedded.org/meta-openembedded'
-* Download 'git clone -b zeus git://git.yoctoproject.org/meta-raspberrypi'
+* Download `git clone -b zeus git://git.yoctoproject.org/poky`
+* Download `git clone -b zeus git://git.openembedded.org/meta-openembedded`
+* Download `git clone -b zeus git://git.yoctoproject.org/meta-raspberrypi`
 
 
