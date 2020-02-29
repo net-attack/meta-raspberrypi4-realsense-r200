@@ -11,3 +11,4 @@
 
 * Run `. poky/oe-init-build-env`
 * Copy `cp ../conf/*.conf conf/`
+* Run `bitbake core-image-minimal`
