@@ -7,3 +7,7 @@
 * Download `git clone -b zeus git://git.yoctoproject.org/meta-raspberrypi`
 
 
+## Bitbake
+
+* Run `. poky/oe-init-build-env`
+* Copy `cp ../conf/*.conf conf/`
